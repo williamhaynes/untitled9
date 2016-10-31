@@ -1,11 +1,8 @@
 <?php
-include ("scripts/dbconnect.php");
-include ("scripts/header_l2.php");
-echo "
-<main>
-<p>Welcome to the blog of Charles Babbage! In this blog you will
-see all of my insights and wonderful things</p>
-</main>
-";
+include ("scripts/header.php");
+echo "<main>
+<h2>Contact</h2>
+<p>Send me an email at babbage@babbage-labs.com</p>
+</main>";
 include ("scripts/footer.php");
 ?>

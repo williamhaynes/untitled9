@@ -7,7 +7,7 @@ $rules = array(
     'about' => "/about",
     'contactus' => "/contactus",
     'blog' => "/blog",
-    'register' => "/blog",
+    'register' => "/register",
     'blog_article' => "/blog/(?'blogID'[\w\-]+)",
     //
     //Admin Pages
