@@ -1,5 +1,6 @@
 <?php
-include ("scripts/header.php");
+include ("scripts/dbconnect.php");
+include ("scripts/header_l2.php");
 echo "
 <main>
 <p>Welcome to the blog of Charles Babbage! In this blog you will

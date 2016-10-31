@@ -7,12 +7,12 @@ $rules = array(
     'about' => "/about",
     'contactus' => "/contactus",
     'blog' => "/blog",
+    'register' => "/blog",
     'blog_article' => "/blog/(?'blogID'[\w\-]+)",
     //
     //Admin Pages
     //
     'login' => "/login",
-    'register' => "/register",
     'create_article' => "/createarticle",
     'logout' => "/logout",
     //
