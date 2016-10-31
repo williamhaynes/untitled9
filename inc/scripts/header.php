@@ -7,6 +7,7 @@ session_start();
     <meta charset="UTF-8">
     <title>The Blog of Charles Babbage</title>
     <link rel="stylesheet" type="text/css" href="style/style.css">
+    "scripts/footer.php"
 </head>
 <body>
 <header>
